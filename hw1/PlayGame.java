@@ -492,5 +492,4 @@ public static void deal_with_card(player[] deck,int i){
 
 }
 
-
 }
