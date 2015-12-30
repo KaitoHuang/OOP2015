@@ -1,0 +1,250 @@
+.nav a{
+    color:#5a5a5a;
+    font-family:'Arial';
+    font-size: 18px;
+    font-weight: bold;
+    padding-top:30px;
+    padding-bottom:20px;
+    padding-left:65px;
+    padding-right:65px;
+    text-transform:uppercase;
+    }
+.nav li {
+  display: inline;
+}
+.jumbotron h1{
+    color:brown;
+    font-size:80px;
+    font-family:'Trebuchet MS';
+    font-weight:bold;  
+}
+.jumbotron p{
+    color:black;
+    font-size:20px;
+    }
+.jumbotron img{
+    position:relative;
+    margin-left:250px;
+    margin-top:40px;
+}
+.jumbotron p{
+    position:relative;
+    bottom:450px;
+    margin-left: 830px;
+    font-family:'Lucida Console';
+    font-size:18px;
+    
+}
+.jumbotron h2{
+  font-family:'Lucida Console';
+  font-size:32px;
+  font-weight:bold;
+  position:relative;
+  bottom:450px;
+  margin-left:810px;
+}
+.contents p{    
+   font-family:'Lucida Console';
+   font-size:18px;
+   position:relative;
+   bottom:670px;
+   margin-right:200px;
+   text-align:right;   
+}
+.a{
+    height: 80px;
+    width: 80px;
+    border-color:#FFA488;
+    background-color: #FFA488;
+    border-width:2px;
+    border-radius:80px;
+    font-family:'Arial';
+    position:relative;
+    bottom:620px;
+    margin-left:840px;
+    text-align:center;
+    line-height:80px;
+    font-size:1.2em;
+    color:white;
+    font-weight:bold;
+    }
+.b{
+    height: 80px;
+    width: 80px;
+    border-color:#DDDDDD;
+    background-color:#DDDDDD;
+    border-width:2px;
+    border-radius:80px;
+    font-family:'Arial';
+    position:relative;
+    bottom:700px;
+    margin-left:940px;
+    text-align:center;
+    line-height:80px;
+    font-size:1.2em;
+    color:white;
+    font-weight:bold;
+    }
+.c{
+    height: 80px;
+    width: 80px;
+    border-color:#DDDDDD;
+    background-color:#DDDDDD;
+    border-width:2px;
+    border-radius:80px;
+    font-family:'Arial';
+    position:relative;
+    bottom:780px;
+    margin-left:1040px;
+    text-align:center;
+    line-height:80px;
+    font-size:1.2em;
+    color:white;
+    font-weight:bold;
+    }
+.learn-more h3{
+    position:relative;
+    bottom:700px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
+.learn-more p{
+  position:relative;
+    bottom:700px;
+    margin-left:300px;
+    font-size:20px;
+}
+.box1 img{
+  position:relative;
+  margin-left:400px;  
+  bottom:400px;
+}
+.box2 img{
+  position:relative;
+  margin-left:230px;  
+  bottom:400px;
+}
+.box3 img{
+  position:relative;
+  margin-left:350px;  
+  bottom:600px;
+}
+.box4 img{
+  position:relative;
+  margin-left:230px;  
+  bottom:800px;
+}
+.box5 img{
+  position:relative;
+  margin-left:650px;  
+  bottom:1000px;
+}
+.box6 img{
+  position:relative;
+  margin-left:730px;  
+  bottom:1200px;
+}
+.box7 img{
+ position:relative;
+  margin-left:660px;  
+  bottom:1500px;
+}
+.box8 img{
+ position:relative;
+  margin-left:450px;  
+  bottom:1500px;
+}
+.box9 img{
+ position:relative;
+  margin-left:450px;  
+  bottom:1500px;
+}
+.box10 img{
+ position:relative;
+  margin-left:450px;  
+  bottom:1500px;
+}
+.box11 img{
+ position:relative;
+  margin-left:450px;  
+  bottom:1500px;
+}
+.box12 img{
+ position:relative;
+  margin-left:450px;  
+  bottom:1500px;
+}
+.learn-more h5{
+    position:relative;
+    bottom:1500px;
+    margin-left:300px; 
+    font-family:'Lucida Console';
+    font-size:20px;
+}
+
+.f1 img{
+position:relative;
+  margin-left:300px;  
+  bottom:1500px;
+}
+.cp h3{
+  position:relative;
+    bottom:1500px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
+.cp1 img{
+   position:relative;
+  margin-left:200px;  
+  bottom:1500px;
+}
+.cp2 img{
+   position:relative;
+  margin-left:300px;  
+  bottom:1300px;
+}
+.wash h3{
+  position:relative;
+    bottom:1300px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
+.wash img{
+   position:relative;
+  margin-left:240px;  
+  bottom:1300px;
+}
+.return h3{
+  position:relative;
+    bottom:1300px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
+.return img{
+  position:relative;
+  margin-left:300px;  
+  bottom:1300px;
+}
+.warranty h3{
+  position:relative;
+    bottom:1300px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
+.warranty img{
+  position:relative;
+  margin-left:400px;  
+  bottom:1300px;
+}
+.shipping h3{
+  position:relative;
+    bottom:1300px;
+    margin-left:300px; 
+     font-family:'Lucida Console';
+    font-size:20px;
+}
